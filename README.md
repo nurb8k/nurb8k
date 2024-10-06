@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm, Nurbek Akmoldayev</h1>
 <h3 align="center">Web developer from Kazakhstan</h3>
+<p><b>All of big project are hidden by privacy</b></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurb8k&label=Profile%20views&color=0e75b6&style=flat" alt="nurb8k" /> </p>
 
