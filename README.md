@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurb8k" alt="nurb8k" /></a> </p>
 
 - 📫 How to reach me **nurb8k@gmail.com**
-- 📫 How to reach me **[t.me/](https://t.me/virgin_forever)**
+- 📫 How to reach me (Messenger) **[telegram/](https://t.me/nurb8k)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
