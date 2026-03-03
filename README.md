@@ -21,6 +21,9 @@
 
 ```typescript
 const nurb8k = {
+    "skinColor": "black",
+    "dream": "big",
+    "dih": "small",
     location: "🌍 Building the future",
     currentFocus: "Creating scalable web applications",
     experience: "3.5+ years in production environments",
