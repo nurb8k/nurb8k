@@ -1,7 +1,4 @@
 <div align="center">
-  
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;3.5%2B+Years+of+Experience+%F0%9F%92%BB;Building+Scalable+Solutions+%E2%9A%A1;500%2B+Daily+Active+Users+%F0%9F%93%88" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://github.com/nurb8k">
@@ -20,19 +17,12 @@ const nurb8k = {
     "skinColor": "black",
     "dream": "big",
     "dih": "small",
-    location: "🌍 Building the future",
-    currentFocus: "Creating scalable web applications",
-    experience: "3.5+ years in production environments",
-    dailyUsers: "500-600 active users",
-    workStyle: "Clean code, Best practices, Performance-first",
-    currentlyLearning: ["System Design", "Cloud Architecture", "AI Integration"],
-    funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
 
 <div align="center">
 
-## �️ Tech Arsenal
+## Tech Arsenal
 
 ### Backend 
 [![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
