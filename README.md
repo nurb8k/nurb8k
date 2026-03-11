@@ -1,6 +1,5 @@
 <div align="center">
   
-# 👨‍💻 Hey there, I'm Nurb8k! 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;3.5%2B+Years+of+Experience+%F0%9F%92%BB;Building+Scalable+Solutions+%E2%9A%A1;500%2B+Daily+Active+Users+%F0%9F%93%88" alt="Typing SVG" />
 
