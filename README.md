@@ -17,6 +17,7 @@ const nurb8k = {
     "skinColor": "black",
     "dream": "big",
     "dih": "small",
+    "ethnicity" "goy"
 };
 ```
 
